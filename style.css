@@ -50,6 +50,6 @@ body{
     height: 20vh;
     border-radius: 50px;
     background: #e2c797;
-    box-shadow:  20px 20px 60px #c0a980,
-                -20px -20px 60px #ffe5ae;
+    box-shadow: inset 20px 20px 60px #c0a980,
+                inset -20px -20px 60px #ffe5ae;
 }
